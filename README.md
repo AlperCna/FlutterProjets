@@ -1,16 +1,18 @@
-# untitled
+# Flutter Projeleri
 
-A new Flutter project.
+Bu repo, Flutter öğrenme sürecinde geliştirilmiş çeşitli mobil uygulama projelerini içerir.
 
-## Getting Started
+## Projeler
 
-This project is a starting point for a Flutter application.
+| Klasör | Açıklama |
+|--------|----------|
+| `projects/favori-filmim` | Favori film bilgilerini gösteren basit Flutter uygulaması |
+| `projects/odev7-sayac-state-management` | State management konusunu işleyen sayaç uygulaması (Ödev 7) |
+| `projects/odev5-bilgi-yarismasi` | Çoktan seçmeli bilgi yarışması oyunu (Ödev 5) |
+| `projects/odev4-falci-uygulamasi` | Sallama ile fal açan eğlenceli uygulama (Ödev 4) |
 
-A few resources to get you started if this is your first Flutter project:
+## Teknoloji
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter / Dart
+- State Management (setState)
+- Material Design
